@@ -25,10 +25,10 @@
 <v t="amd.20161004083800.5" a="E"><vh>body</vh>
 <v t="amd.20161004083800.6" a="E"><vh>reveal div</vh>
 <v t="amd.20161004083800.7" a="E"><vh>slides div</vh>
-<v t="amd.20161004095719.1" a="E"><vh>封面投影片</vh>
+<v t="amd.20161004095719.1"><vh>封面投影片</vh>
 <v t="amd.20161004095719.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20161013151511.1" a="E"><vh>三大主題教學</vh>
+<v t="leo.20161013151511.1"><vh>三大主題教學</vh>
 <v t="leo.20161013151511.2" a="E"><vh>主題教學</vh>
 <v t="leo.20161013151511.3"><vh>電腦輔助設計在教什麼?</vh></v>
 </v>
@@ -51,7 +51,7 @@
 <v t="leo.20161013151511.15"><vh>高效執行力</vh></v>
 </v>
 </v>
-<v t="leo.20161013184628.1" a="E"><vh>電腦輔助設計課程內涵</vh>
+<v t="leo.20161013184628.1"><vh>電腦輔助設計課程內涵</vh>
 <v t="amd.20161004112026.1" a="E"><vh>電腦輔助設計課程內涵</vh>
 <v t="amd.20161004112026.2"><vh>CAD 教學主題</vh></v>
 </v>
@@ -71,7 +71,12 @@
 <v t="leo.20161013190024.2"><vh>Flask 網際程式</vh></v>
 </v>
 </v>
-<v t="leo.20161013184753.1" a="E"><vh>各式內容引用範例</vh>
+<v t="leo.20161013193150.1" a="E"><vh>Windows 環境下可攜環境</vh>
+<v t="leo.20161013193150.2" a="E"><vh>下載 miniconda 可攜環境</vh>
+<v t="leo.20161013193150.3"><vh>下載可攜程式環境</vh></v>
+</v>
+</v>
+<v t="leo.20161013184753.1"><vh>各式內容引用範例</vh>
 <v t="leo.20161013184813.1" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20161013184813.2"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -243,7 +248,11 @@ print("hello")
 Created by [kmolab](http://chiamingyen.github.io/kmolab/blog/)
 &lt;/small&gt;
 
-[blog](blog/index.html)
+[甲班電腦輔助設計實習課程網誌](blog/index.html)
+
+[乙班電腦輔助設計實習課程網誌](https://mdecourse.github.io/2016fallcadpb/blog)
+
+[Vimeo 上課影片](https://vimeo.com/user24079973/videos)
 </t>
 <t tx="amd.20161004112026.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -663,6 +672,27 @@ make.start()
 ### 導入影片 template
 
 &lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20161013193150.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161013193150.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161013193150.3">## 下載 miniconda 可攜環境
+
+  * 在電腦教室下載 [mini2016fall.7z](http://140.130.17.17/public/2016fall/mini2016fall_with_leo.7z)
+  * 從外部下載 [mini2016fall.7z](https://140.130.17.101/download/?filepath=/home/yen/cmsimply/wsgi/local_data/downloads/mini2016fall_with_leo.7z)
+  * start.bat 啟動, stop.bat 關閉
+  * 建議存在隨身硬碟中使用
+
+
 </t>
 </tnodes>
 </leo_file>
