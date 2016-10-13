@@ -51,19 +51,35 @@
 <v t="leo.20161013151511.15"><vh>高效執行力</vh></v>
 </v>
 </v>
-<v t="amd.20161004101327.1" a="E"><vh>導入影片</vh>
-<v t="amd.20161004101327.2"><vh>iframe 導入影片</vh></v>
-</v>
+<v t="leo.20161013184628.1" a="E"><vh>電腦輔助設計課程內涵</vh>
 <v t="amd.20161004112026.1" a="E"><vh>電腦輔助設計課程內涵</vh>
-<v t="amd.20161004112026.2"><vh>利用 MD 寫內容</vh></v>
-<v t="leo.20161013152737.1" a="E"><vh>Github pages 網頁</vh>
-<v t="leo.20161013152737.2"><vh>iframe 導入影片</vh></v>
+<v t="amd.20161004112026.2"><vh>CAD 教學主題</vh></v>
+</v>
+<v t="leo.20161013152737.1"><vh>Github pages 網頁</vh>
+<v t="leo.20161013152737.2"><vh>各學員任務</vh></v>
+</v>
+<v t="leo.20161013185220.1"><vh>所有操作都必須拍影片</vh>
+<v t="leo.20161013185220.2"><vh>操作影片</vh></v>
+</v>
+<v t="leo.20161013185610.1"><vh>Solvespace 操作練習</vh>
+<v t="leo.20161013185610.2"><vh>Solvespace 實習</vh></v>
+</v>
+<v t="leo.20161013185845.1"><vh>OnShape 操作練習</vh>
+<v t="leo.20161013185845.2"><vh>OnShape 實習</vh></v>
+</v>
+<v t="leo.20161013190024.1"><vh>網際自評系統</vh>
+<v t="leo.20161013190024.2"><vh>Flask 網際程式</vh></v>
 </v>
 </v>
-<v t="amd.20161004171423.1" a="E"><vh>導入設計表達內容</vh>
-<v t="amd.20161004171423.2"><vh>LaTeX 格式方程式</vh></v>
-<v t="leo.20161013152112.1" a="E"><vh>導入縮排程式碼</vh>
-<v t="leo.20161013152112.2"><vh>引用程式碼</vh></v>
+<v t="leo.20161013184753.1" a="E"><vh>各式內容引用範例</vh>
+<v t="leo.20161013184813.1" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20161013184813.2"><vh>LaTeX 格式方程式</vh></v>
+</v>
+<v t="leo.20161013184830.1" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20161013184830.2"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20161013190351.1" a="E"><vh>導入影片</vh>
+<v t="leo.20161013190351.2"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 </v>
@@ -219,33 +235,15 @@ print("hello")
 
 						
 </t>
-<t tx="amd.20161004095719.2"># 2016Fall CADPA 課程
+<t tx="amd.20161004095719.2">## 2016Fall 電腦輔助設計實習課程
 
-### 電腦輔助設計實習
+### 虎科大機械設計工程系
 
 &lt;small&gt;
 Created by [kmolab](http://chiamingyen.github.io/kmolab/blog/)
-&lt;br /&gt;虎科大機械設計工程系
 &lt;/small&gt;
 
 [blog](blog/index.html)
-</t>
-<t tx="amd.20161004101327.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="amd.20161004101327.2">## 使用 iframe 導入影片
-
-### Markdown 沒有 iframe
-
-(導入影片 template)
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="amd.20161004112026.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -258,34 +256,16 @@ Created by [kmolab](http://chiamingyen.github.io/kmolab/blog/)
 </t>
 <t tx="amd.20161004112026.2">## 電腦輔助設計實習課程
 
-電腦輔助設計實習的教學主題:
+教學主題
 
   * 課程網頁、學員網頁、分組網頁串連
   * Solvespace 零組件繪圖與機構模擬
   * OnShape 零組件繪圖與機構模擬
   * Delta 3D printer 零組件繪圖與模擬
   * Delta 3D printer 零組件列印組立
-  * 網際自評系統
+  * 建立網際自評系統
 
 
-</t>
-<t tx="amd.20161004171423.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="amd.20161004171423.2"># 數學符號與方程式
-
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
 </t>
 <t tx="leo.20151212173315.1"></t>
 <t tx="leo.20151212173315.2">QTreeWidget {
@@ -458,12 +438,12 @@ DEFAULT_DATE = 'fs'</t>
 
 						
 </t>
-<t tx="leo.20161013151511.3"># 電腦輔助設計在教什麼?
+<t tx="leo.20161013151511.3">## 電腦輔助設計在教什麼?
 
-## 創造力
-## 表達力
+### 創造力
+### 表達力
 以及
-## 協同力
+### 協同力
 
 </t>
 <t tx="leo.20161013151511.4">&lt;section data-markdown&gt;
@@ -475,7 +455,7 @@ DEFAULT_DATE = 'fs'</t>
 
 						
 </t>
-<t tx="leo.20161013151511.5"># 電腦輔助設計在教什麼?
+<t tx="leo.20161013151511.5"># CAD 在教什麼?
 
 ## &lt;span style="color:#FFFF00"&gt;創造力&lt;/span&gt;&lt;small&gt;=自學力+程式力+想像力&lt;/small&gt;
 ## &lt;span style="color:#FFFF00"&gt;表達力&lt;/span&gt;&lt;small&gt;=口語+文字+2D+3D+理論+實體&lt;/small&gt;
@@ -492,7 +472,7 @@ DEFAULT_DATE = 'fs'</t>
 
 						
 </t>
-<t tx="leo.20161013151511.7"># 電腦輔助設計系列課程
+<t tx="leo.20161013151511.7"># CAD 系列課程
 
 ## 計算機程式
 ## 網際內容管理
@@ -518,7 +498,33 @@ DEFAULT_DATE = 'fs'</t>
 ## 俱備&lt;small&gt;&lt;span style="color:#FF0080"&gt;豐富&lt;/span&gt;&lt;/small&gt;&lt;span style="color:#FFFF00"&gt;想像力&lt;/span&gt;
 
 </t>
-<t tx="leo.20161013152112.1">&lt;section data-markdown&gt;
+<t tx="leo.20161013152737.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161013152737.2">## Github Pages 網頁
+
+各學員必須完成
+
+  * 個人網頁
+  * Solvespace 零組件繪圖與機構模擬
+  * OnShape 零組件繪圖與機構模擬
+  * Delta 3D printer 零組件繪圖與模擬
+  * 利用 Delta 3D printer 列印零組件並組立
+  * 建立網際自評系統
+</t>
+<t tx="leo.20161013184628.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161013184753.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161013184813.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -529,7 +535,25 @@ DEFAULT_DATE = 'fs'</t>
 
 						
 </t>
-<t tx="leo.20161013152112.2">## 利用 Markdown 寫投影片
+<t tx="leo.20161013184813.2"># 數學符號與方程式
+
+Inline math equations go in like so: $\omega = d\phi / dt$. Display
+math should get its own line and be put in in double-dollarsigns:
+
+$$I = \int \rho R^{2} dV$$
+</t>
+<t tx="leo.20161013184830.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20161013184830.2">## 利用 Markdown 寫投影片
 以下利用 Markdown 格式展示 Python 程式碼:
 ```
 @language python
@@ -557,7 +581,7 @@ make = threading.Thread(target=domake)
 make.start()
 ```
 </t>
-<t tx="leo.20161013152737.1">&lt;section data-markdown&gt;
+<t tx="leo.20161013185220.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -566,16 +590,79 @@ make.start()
 
 						
 </t>
-<t tx="leo.20161013152737.2">## Github Pages 網頁
+<t tx="leo.20161013185220.2">## 操作影片錄製
 
-各學員必須建立:
+  * Windows 環境下使用 ShareX
+  * Ubuntu 環境下使用 Kazam
+  * 影片檔岸上傳到 Vimeo
+  * 影片檔案上傳到 Youtube
+  * 在投影片與網誌中嵌入影片檔
+</t>
+<t tx="leo.20161013185610.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
-  * 個人網頁
-  * Solvespace 零組件繪圖與機構模擬
-  * OnShape 零組件繪圖與機構模擬
-  * Delta 3D printer 零組件繪圖與模擬
-  * Delta 3D printer 零組件列印組立
-  * 網際自評系統
+
+						
+</t>
+<t tx="leo.20161013185610.2">## Solvespace 實習
+
+  * Solvespace 零件繪製
+  * Solvespace 零件組立
+  * Delta 3D Printer 機構模擬
+  * 平面四連桿機構模擬與驗證
+  * 平面多連桿機構模擬與驗證
+  * Solvespace 程式編譯
+</t>
+<t tx="leo.20161013185845.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161013185845.2">## OnShape 實習
+
+  * OnShape 零件繪製
+  * OnShape 零件組立
+  * Delta 3D Printer 機構模擬
+  * 平面四連桿機構模擬與驗證
+  * 平面多連桿機構模擬與驗證
+  * Featurescript 範例操作
+</t>
+<t tx="leo.20161013190024.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161013190024.2">## Flask 網際程式
+
+  * 以 CMSimfly 為例
+  * 以 PyGrouf 為例
+  * 以 Jupyterhub 為例
+</t>
+<t tx="leo.20161013190351.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161013190351.2">## 使用 iframe 導入影片
+
+### 導入影片 template
+
+&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 </tnodes>
 </leo_file>
