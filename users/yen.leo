@@ -19,13 +19,13 @@
 <v t="leo.20151213085727.1"><vh>@button pelican-blog</vh></v>
 </v>
 <v t="amd.20151215180106.1" a="E"><vh>設定與開發</vh>
-<v t="amd.20151216151325.1"><vh>@clean index.html</vh>
+<v t="amd.20151216151325.1" a="E"><vh>@clean index.html</vh>
 <v t="amd.20161004083800.1" a="E"><vh>html</vh>
 <v t="amd.20161004083800.2"><vh>head</vh></v>
 <v t="amd.20161004083800.5" a="E"><vh>body</vh>
 <v t="amd.20161004083800.6" a="E"><vh>reveal div</vh>
 <v t="amd.20161004083800.7" a="E"><vh>slides div</vh>
-<v t="amd.20161004095719.1"><vh>封面投影片</vh>
+<v t="amd.20161004095719.1" a="E"><vh>封面投影片</vh>
 <v t="amd.20161004095719.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20161013151511.1" a="E"><vh>三大主題教學</vh>
@@ -221,11 +221,11 @@ print("hello")
 </t>
 <t tx="amd.20161004095719.2"># 2016Fall CADPA 課程
 
-### THE HTML PRESENTATION FRAMEWORK
+### 電腦輔助設計實習
 
 &lt;small&gt;
-Created by [Hakim El Hattab](http://hakim.se)
-[@hakimel](http://twitter.com/hakimel)
+Created by [kmolab](http://chiamingyen.github.io/kmolab/blog/)
+&lt;br /&gt;虎科大機械設計工程系
 &lt;/small&gt;
 
 [blog](blog/index.html)
