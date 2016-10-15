@@ -28,6 +28,9 @@
 <v t="amd.20161004095719.1"><vh>封面投影片</vh>
 <v t="amd.20161004095719.2"><vh>封面投影片內容</vh></v>
 </v>
+<v t="yen.20161016024324.1"><vh>快捷鍵</vh>
+<v t="yen.20161016024324.2"><vh>投影片快捷鍵</vh></v>
+</v>
 <v t="leo.20161013151511.1"><vh>三大主題教學</vh>
 <v t="leo.20161013151511.2" a="E"><vh>主題教學</vh>
 <v t="leo.20161013151511.3"><vh>電腦輔助設計在教什麼?</vh></v>
@@ -51,6 +54,17 @@
 <v t="leo.20161013151511.15"><vh>高效執行力</vh></v>
 </v>
 </v>
+<v t="yen.20161016024451.1"><vh>CADP 課程倉儲</vh>
+<v t="yen.20161016024451.2" a="E"><vh>課程時段與規劃</vh>
+<v t="yen.20161016024451.3"><vh>規劃、Wiki 與網誌</vh></v>
+</v>
+<v t="yen.20161016024451.4" a="E"><vh>下載 miniconda 可攜環境</vh>
+<v t="yen.20161016024451.5"><vh>下載可攜程式環境</vh></v>
+</v>
+<v t="yen.20161016024451.6" a="E"><vh>學員自評項目</vh>
+<v t="yen.20161016024451.7"><vh>下載可攜程式環境</vh></v>
+</v>
+</v>
 <v t="leo.20161013184628.1"><vh>電腦輔助設計課程內涵</vh>
 <v t="amd.20161004112026.1" a="E"><vh>電腦輔助設計課程內涵</vh>
 <v t="amd.20161004112026.2"><vh>CAD 教學主題</vh></v>
@@ -71,9 +85,15 @@
 <v t="leo.20161013190024.2"><vh>Flask 網際程式</vh></v>
 </v>
 </v>
-<v t="leo.20161013193150.1" a="E"><vh>Windows 環境下可攜環境</vh>
-<v t="leo.20161013193150.2" a="E"><vh>下載 miniconda 可攜環境</vh>
-<v t="leo.20161013193150.3"><vh>下載可攜程式環境</vh></v>
+<v t="yen.20161016024407.1"><vh>協同力訓練</vh>
+<v t="yen.20161016024407.2" a="E"><vh>Github 帳號</vh>
+<v t="yen.20161016024407.3"><vh>Github 倉儲網頁</vh></v>
+</v>
+<v t="yen.20161016024407.4"><vh>倉儲子模組串連</vh>
+<v t="yen.20161016024407.5"><vh>學員作業網頁定版</vh></v>
+</v>
+<v t="yen.20161016024407.6"><vh>倉儲版本拉回請求</vh>
+<v t="yen.20161016024407.7"><vh>Github 倉儲拉回請求</vh></v>
 </v>
 </v>
 <v t="leo.20161013184753.1"><vh>各式內容引用範例</vh>
@@ -673,10 +693,7 @@ make.start()
 
 &lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
-<t tx="leo.20161013193150.1">&lt;section&gt;
-@others
-&lt;/section&gt;</t>
-<t tx="leo.20161013193150.2">&lt;section data-markdown&gt;
+<t tx="yen.20161016024324.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -685,7 +702,95 @@ make.start()
 
 						
 </t>
-<t tx="leo.20161013193150.3">## 下載 miniconda 可攜環境
+<t tx="yen.20161016024324.2"># 投影片快捷鍵
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
+<t tx="yen.20161016024407.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="yen.20161016024407.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="yen.20161016024407.3"># Github 倉儲網頁
+
+####建立個人 Github 網頁 (帳號.github.io)
+####建立個人課程作業網頁 (納入投影片與網誌架構)
+####組長建立分組的評量網頁 (納入投影片與網誌架構)
+</t>
+<t tx="yen.20161016024407.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="yen.20161016024407.5"># 學員作業網頁定版
+
+###個人作業網頁內容可以隨時改版
+###分組評量網頁必須在指定時間前定版
+###Github 倉儲 gh-pages分支與子模組應用
+</t>
+<t tx="yen.20161016024407.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="yen.20161016024407.7"># Github 倉儲拉回請求
+
+####分組倉儲 Collaborators 設定
+####分組倉儲版本 Pull Requests 練習
+####各組員實際操作影片錄製
+####操作影片加字幕以及影片檔相加
+</t>
+<t tx="yen.20161016024451.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="yen.20161016024451.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="yen.20161016024451.3"># 電腦輔助設計實習課程規劃
+
+## [課程規劃](https://github.com/mdecourse/2016fallcadp/blob/master/syllabus.py)
+## [課程 Wiki](https://github.com/mdecourse/2016fallcadp/wiki)
+## [課程網誌](http://chiamingyen.github.io/kmolab/blog/tag/2016fallcadp.html)
+
+</t>
+<t tx="yen.20161016024451.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="yen.20161016024451.5">## 下載 miniconda 可攜環境
 
   * 在電腦教室下載 [mini2016fall.7z](http://140.130.17.17/public/2016fall/mini2016fall_with_leo.7z)
   * 從外部下載 [mini2016fall.7z](https://140.130.17.101/download/?filepath=/home/yen/cmsimply/wsgi/local_data/downloads/mini2016fall_with_leo.7z)
@@ -694,5 +799,20 @@ make.start()
 
 
 </t>
+<t tx="yen.20161016024451.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="yen.20161016024451.7">## 學員自評項目
+
+* 上課筆記與心得寫在個人的 2016fallcadp_hw 倉儲 Wiki 中
+* 利用 [ShareX](https://getsharex.com/) 錄製上課操作練習影片
+* 將影片加上說明字幕後, 上傳至個人 [Vimeo](https://vimeo.com/) 與 [Youtube](https://www.youtube.com)
+* 每週更新個人與分組的 Github Pages 投影片與網誌</t>
 </tnodes>
 </leo_file>
