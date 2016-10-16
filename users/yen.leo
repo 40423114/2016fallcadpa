@@ -25,7 +25,7 @@
 <v t="amd.20161004083800.5" a="E"><vh>body</vh>
 <v t="amd.20161004083800.6" a="E"><vh>reveal div</vh>
 <v t="amd.20161004083800.7" a="E"><vh>slides div</vh>
-<v t="amd.20161004095719.1"><vh>封面投影片</vh>
+<v t="amd.20161004095719.1" a="E"><vh>封面投影片</vh>
 <v t="amd.20161004095719.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="yen.20161016024324.1"><vh>快捷鍵</vh>
@@ -265,7 +265,7 @@ print("hello")
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [kmolab](http://chiamingyen.github.io/kmolab/blog/)
+Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 &lt;/small&gt;
 
 [甲班電腦輔助設計實習課程網誌](blog/index.html)
@@ -273,6 +273,8 @@ Created by [kmolab](http://chiamingyen.github.io/kmolab/blog/)
 [乙班電腦輔助設計實習課程網誌](https://mdecourse.github.io/2016fallcadpb/blog)
 
 [Vimeo 上課影片](https://vimeo.com/user24079973/videos)
+
+[電腦輔助設計室電腦硬體](http://project.mde.tw/blog/yen-dian-nao-fu-zhu-she-ji-shi-dian-nao-pei-zhi.html)
 </t>
 <t tx="amd.20161004112026.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
