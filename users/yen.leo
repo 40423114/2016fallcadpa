@@ -65,7 +65,7 @@
 <v t="yen.20161016024451.7"><vh>下載可攜程式環境</vh></v>
 </v>
 </v>
-<v t="leo.20161013184628.1"><vh>電腦輔助設計課程內涵</vh>
+<v t="leo.20161013184628.1" a="E"><vh>電腦輔助設計課程內涵</vh>
 <v t="amd.20161004112026.1" a="E"><vh>電腦輔助設計課程內涵</vh>
 <v t="amd.20161004112026.2"><vh>CAD 教學主題</vh></v>
 </v>
@@ -80,6 +80,12 @@
 </v>
 <v t="leo.20161013185845.1"><vh>OnShape 操作練習</vh>
 <v t="leo.20161013185845.2"><vh>OnShape 實習</vh></v>
+</v>
+<v t="yen.20161016203728.1"><vh>Nutcracker 操作練習</vh>
+<v t="yen.20161016203728.2"><vh>OnShape 實習</vh></v>
+</v>
+<v t="yen.20161016204452.1" a="E"><vh>Delta Printer 組裝</vh>
+<v t="yen.20161016204452.2"><vh>機電資產品的設計考量</vh></v>
 </v>
 <v t="leo.20161013190024.1"><vh>網際自評系統</vh>
 <v t="leo.20161013190024.2"><vh>Flask 網際程式</vh></v>
@@ -816,5 +822,40 @@ make.start()
 * 利用 [ShareX](https://getsharex.com/) 錄製上課操作練習影片
 * 將影片加上說明字幕後, 上傳至個人 [Vimeo](https://vimeo.com/) 與 [Youtube](https://www.youtube.com)
 * 每週更新個人與分組的 Github Pages 投影片與網誌</t>
+<t tx="yen.20161016203728.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="yen.20161016203728.2">## OnShape 實習
+
+  * 請根據[Nutcracker手冊](http://chiamingyen.github.io/kmolab_data/files/ProEMechanism.pdf)說明完成零件繪製
+  * 請完成 Nutcracker 零件組立
+  * 請完成與手冊格式類似的 pdf 導引教材 (How？)
+  * 請完成零件繪製教學影片(語音或字幕說明)並上傳到 Vimeo 與 Youtube
+  * 若採用 Solvespace, 可否完成上述相同零組件繪製與組立?
+  * 如何精確得知機構運動過程的約束位置?
+</t>
+<t tx="yen.20161016204452.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="yen.20161016204452.2">## 機電資產品的設計考量
+
+  * 請收集與 Delta 3D printer 有關的資料
+  * 請設法利用 CAD 套件完成零組件繪製與模擬
+  * 上述模擬過程對於產品的開發有何用意?
+  * 請討論如何完成一台可以正常列印的 Delta Printer？
+
+</t>
 </tnodes>
 </leo_file>
