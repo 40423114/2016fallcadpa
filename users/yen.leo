@@ -18,7 +18,7 @@
 <v t="leo.20151213173830.1" a="E"><vh>假如要在近端檢視, 使用下列按鈕</vh>
 <v t="leo.20151213085727.1"><vh>@button pelican-blog</vh></v>
 </v>
-<v t="amd.20151215180106.1"><vh>設定與開發</vh>
+<v t="amd.20151215180106.1" a="E"><vh>設定與開發</vh>
 <v t="amd.20151216151325.1" a="E"><vh>@clean index.html</vh>
 <v t="amd.20161004083800.1" a="E"><vh>html</vh>
 <v t="amd.20161004083800.2"><vh>head</vh></v>
@@ -78,6 +78,9 @@
 <v t="leo.20161013185610.1"><vh>Solvespace 操作練習</vh>
 <v t="leo.20161013185610.2"><vh>Solvespace 實習</vh></v>
 </v>
+<v t="leo.20161027151655.1" a="E"><vh>Solvespace 四連桿模擬</vh>
+<v t="leo.20161027151655.2"><vh>Solvespace 模擬</vh></v>
+</v>
 <v t="leo.20161013185845.1"><vh>OnShape 操作練習</vh>
 <v t="leo.20161013185845.2"><vh>OnShape 實習</vh></v>
 </v>
@@ -102,7 +105,7 @@
 <v t="yen.20161016024407.7"><vh>Github 倉儲拉回請求</vh></v>
 </v>
 </v>
-<v t="leo.20161013184753.1"><vh>各式內容引用範例</vh>
+<v t="leo.20161013184753.1" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20161013184813.1" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20161013184813.2"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -135,6 +138,7 @@
 <v t="amd.20160727114506.1" a="E"><vh>201609</vh>
 <v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
 <v t="yen.20161022120807.1"><vh>@edit 20161022.md</vh></v>
+<v t="leo.20161027150608.1"><vh>@edit mynum_20161027.md</vh></v>
 </v>
 </v>
 </v>
@@ -703,6 +707,19 @@ make.start()
 ### 導入影片 template
 
 &lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20161027151655.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161027151655.2">## Solvespace 四連桿模擬
+
+&lt;img src="w7/cadp_w7_fourbar.png" width= "800" /&gt;
 </t>
 <t tx="yen.20161016024324.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
