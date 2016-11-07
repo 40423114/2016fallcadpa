@@ -38,3 +38,7 @@
 	path = g7
 	url = https://github.com/g0910841123/2016fallcadp_ag7.git
 	branch = gh-pages
+[submodule "g100"]
+	path = g100
+	url = https://github.com/scrum-1/2016fallcadp_ag100
+	branch = gh-pages
