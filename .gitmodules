@@ -40,5 +40,5 @@
 	branch = gh-pages
 [submodule "g100"]
 	path = g100
-	url = https://github.com/scrum-1/2016fallcadp_ag100
+	url = https://github.com/scrum-1/2016fallcadp_ag100.git
 	branch = gh-pages
